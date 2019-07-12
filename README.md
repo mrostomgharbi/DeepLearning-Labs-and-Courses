@@ -1,2 +1,3 @@
 # DeepLearning-Labs-and-Courses
-Courses + different labs with solutions
+Very interesting deep learning courses and labs with solutions.
+Different fields are studied : CNNs, RNNs, Triplet Loss, GANs, Seq2seq models, etc.
